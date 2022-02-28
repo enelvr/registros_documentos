@@ -10,6 +10,10 @@ Registro documento es un CRUD desarrollado, siguiendo el patron mvc, usando los 
 - Composer
 - Sistema operativo linux u otro
 
+# Acceso
+ - USERNAME: enel
+ - PASSWORD: 123456
+
 ## Como hacer copia de este proyecto
 
 Puedes acceder y descargar el código desde la URL:
