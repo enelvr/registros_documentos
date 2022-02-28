@@ -1,0 +1,25 @@
+{
+    "name": "enel/phpcrud",
+    "description": "PHP CRUD registros de documentos",
+    "type": "project",
+    "require": {
+        "illuminate/database": "6",
+        "bramus/router": "~1.6"
+    },
+    "autoload": {
+      "psr-4": {
+        "App\\": "app/",
+        "Resources\\": "resources/"
+      },
+      "files": ["app/helpers.php"]
+    },
+
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "enelvr",
+            "email": "enelvillafranca@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
